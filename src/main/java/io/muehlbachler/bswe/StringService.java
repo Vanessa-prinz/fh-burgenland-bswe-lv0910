@@ -4,7 +4,7 @@ import org.springframework.stereotype.Service;
 
 // FIXME: add javadoc
 /**
-JavaDoc für StringService
+JavaDoc für StringService 123
 **/
 @Service
 public class StringService {
